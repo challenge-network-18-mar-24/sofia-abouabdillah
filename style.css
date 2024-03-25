@@ -1,0 +1,81 @@
+/* Header. */
+
+.header {
+    border: 1px solid rgb(231, 228, 228);
+    width: 1915px;;
+    height: 15%;
+    margin-left: 2px;
+    margin-top: 2px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    display: flex;
+    /*background: #f3ebd3;*/
+    /*background: rgb(235, 235, 227);*/
+    /*background-image: url(./img/banner.png);*/
+    /*background-size: contain;*/
+    background: url(./img/banner.png);
+    background-size: contain;
+
+}
+
+
+
+.menu {
+    border: 1px solid rgb(234, 229, 229);
+    width: 100%;
+    ;
+}
+
+.menu li {
+    display: inline-block;
+}
+
+.menu li a {
+    color: rgb(180, 184, 138);
+    padding: 25px;
+}
+
+.cta {
+    border: 1px solid rgb(234, 228, 228);
+}
+
+.cta a {
+    color: antiquewhite;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*,
+*::before,
+*::after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
