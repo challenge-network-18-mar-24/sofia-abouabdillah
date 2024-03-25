@@ -2,8 +2,8 @@
 
 .header {
     border: 1px solid rgb(231, 228, 228);
-    width: 1915px;;
-    height: 15%;
+    width: 1531px;
+    height: 16%;
     margin-left: 2px;
     margin-top: 2px;
     position: fixed;
@@ -20,7 +20,9 @@
 
 }
 
-
+.logo img{
+    width: 120px;
+}
 
 .menu {
     border: 1px solid rgb(234, 229, 229);
