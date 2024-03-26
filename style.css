@@ -11,10 +11,6 @@
     left: 0;
     padding: 10px;
     display: flex;
-    /*background: #f3ebd3;*/
-    /*background: rgb(235, 235, 227);*/
-    /*background-image: url(./img/banner.png);*/
-    /*background-size: contain;*/
     background: url(./img/banner.png);
     background-size: contain;
 
